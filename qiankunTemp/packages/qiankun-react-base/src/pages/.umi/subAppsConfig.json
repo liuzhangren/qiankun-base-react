@@ -1,0 +1,1 @@
+{"masterHistory":"hash","apps":[{"name":"404vue","entry":"//localhost:8080","base":"/child-v"},{"name":"404react","entry":"//localhost:20000","base":"/child-r"}],"jsSandbox":true,"prefetch":true,"registerRuntimeKeyInIndex":true}
