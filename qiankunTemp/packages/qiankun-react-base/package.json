@@ -28,6 +28,7 @@
     "braft-editor": "^2.3.9",
     "dynamic-antd-theme-yfhx": "^0.1.1",
     "qiankun": "^2.3.2",
+    "qiankun-react-view": "^0.0.1",
     "react": "^16.12.0",
     "react-activation": "^0.9.1",
     "react-dom": "^16.12.0",
